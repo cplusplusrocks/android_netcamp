@@ -50,7 +50,7 @@ public class Second extends AppCompatActivity {
                 {
                     if(s2.equals(s3)==false)
                     {
-                        Toast.makeText(Second.this,"Passwords not Match",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(Second.this,"Passwords not Match - Verify Credentials",Toast.LENGTH_SHORT).show();
                     }
 
                     else
